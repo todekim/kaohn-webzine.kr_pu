@@ -28,6 +28,22 @@
     font-style: normal;
 }
 
+.d-flex{
+    display: flex;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.text-center{
+    text-align : center !important;
+}
+
+.justify-content-between{
+    justify-content: space-between;
+}
+
 .word-keep{
     word-break:keep-all !important;
 }
@@ -47,9 +63,7 @@
 }
 
 .sub-wrap{
-    overflow: hidden;
     color:#555;
-    overflow: hidden;
 }
 
 .sub-wrap p{
@@ -1287,6 +1301,7 @@ section.sub-cont:first-child{
 }
 
 .sub-cont .layout>.img.float-right{
+    float: right;
     padding-left:40px;
     padding-right:0px;
 }
@@ -1896,6 +1911,12 @@ section.sub-cont:first-child{
     border-top-color: #e4756e;
 }
 
+/*d common*/
+
+.d-cont h4,
+.d-cont h5{
+    color: #7aa880;
+}
 
 /*e common*/
 .e-cont h4{
@@ -2058,11 +2079,19 @@ section.sub-cont:first-child{
 
 
 
-
 /*a2*/
 .a2-cont .list-box h4{
     font-size:19px;
     font-weight:700;
+}
+
+#a2 table tbody tr:first-child{
+    background : #7459b9;
+    color : white;
+}
+
+#a2 table tbody .edu{
+    line-height:138px;
 }
 
 .a2-cont .box-wrap{
@@ -2203,6 +2232,14 @@ section.sub-cont:first-child{
 
 #a3 [class*='tit-type']{
     margin-bottom: 15px;
+}
+
+#a3 .tit-type2{
+    font-weight:400;
+}
+
+#a3 .tit-type3{
+    font-weight:700;
 }
 
 #a3 .tit-type5{
@@ -2790,6 +2827,14 @@ section.sub-cont:first-child{
 #a5 .poem-contents-container .poem-contents .poem-text{
     color:#fff;
     text-align:center;
+}
+
+#a5 .big-c3 .active{
+    display:block !important;
+}
+
+#a5 .big-c3 .poem-last-context{
+    display:none;
 }
 
 @media screen and (max-width : 766px){
@@ -3628,6 +3673,11 @@ section.sub-cont:first-child{
 
 #c4 .point{
     color: #2175f4;
+}
+
+#c4 .row{
+    display:flex;
+    flex-wrap:wrap;
 }
 
 #c4 .txt-add{
