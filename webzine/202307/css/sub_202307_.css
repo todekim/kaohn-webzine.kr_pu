@@ -95,6 +95,10 @@
     left:0;
 }
 
+.sub-wrap .list-i > li .c-purple{
+    color : #7459b9;
+}
+
 .sub-wrap .list-i.list-i_v2>li{
     position: relative;
     padding-left:23px;
@@ -486,7 +490,6 @@ section.sub-cont:first-child{
     position: relative;
     padding-left:38px;
     margin-bottom:10px;
-    color:#3870cc;
     font-size: 22px;
     font-weight: 700;
     line-height: 1.5;
@@ -509,7 +512,6 @@ section.sub-cont:first-child{
     padding-bottom:4px;
     padding-left:42px;
     margin-bottom:12px;
-    color:#3870cc;
     font-size:22px;
     text-align:left;
     word-break:keep-all;
@@ -766,6 +768,7 @@ section.sub-cont:first-child{
 .sub-cont .img-wrap>li .box .img-box{
     position: relative;
 }
+
 
 /* .sub-cont .img-wrap>li>div .img-box img{
     width:100%;
@@ -1251,6 +1254,10 @@ section.sub-cont:first-child{
     .qna-cont2 .a .ico br{
         display: none;
     }
+
+    .qna-cont2 li:last-child .a .d-flex{
+        flex-direction: column;
+    }
 }
 
 .img-responsive{
@@ -1474,6 +1481,15 @@ section.sub-cont:first-child{
     display: none;
 }
 
+.ref {
+    margin-top: 200px;
+    font-size: 15px;
+    color: #333;
+    line-height: 30px;
+    padding: 30px 0 80px;
+    border-top: 1px solid #e2e2e2;
+}
+
 .sub-cont .ref{
     margin-top: 200px;
     font-size: 15px;
@@ -1679,6 +1695,10 @@ section.sub-cont:first-child{
     font-size:52px;
 } */
 
+.sub-wrap .sub-top.a1-tit>.tit {
+    background-image:url(../images/a1_top.jpg);
+}
+
 .sub-wrap .sub-top.a2-tit>.tit {
     background-image:url(../images/a2_top.jpg);
 }
@@ -1735,6 +1755,11 @@ section.sub-cont:first-child{
     background-image:url(../images/c4_top.jpg);
 }
 
+.sub-wrap .sub-top.d1-tit>.tit {
+    background-image:url(../images/d1_top.jpg);
+}
+
+
 /* .sub-wrap .sub-top.c5-tit>.tit {
     background-image:url(../images/c5_top.jpg);
 } */
@@ -1790,7 +1815,7 @@ section.sub-cont:first-child{
 .a-cont.sub-cont .list-box.txt-color,
 /* .a-cont.sub-cont h5, */
 .a-cont.sub-cont .list-box h4{
-    color:#3870cc !important;
+    color:#7459b9 !important;
 }
 
 [id^=a].sub-cont .qna-cont2 .a .ico{
@@ -1802,7 +1827,7 @@ section.sub-cont:first-child{
 .a-cont .cont-tb thead th,
 .a-cont .list-tit-circle>li>.tit-circle::before,
 .a-cont .list-dot3>li::before{
-    background: #3870cc;
+    background: #7459b9;
 }
 
 .a-cont .cont-tb tbody th,
@@ -1853,9 +1878,10 @@ section.sub-cont:first-child{
 }
 
 /*c common*/
+.c-cont h3,
 .c-cont h4,
 .c-cont .point{
-    color:#e4756e !important;
+    color:#7459b9;
 }
 
 .c-cont .tit-type3 span,
@@ -1863,7 +1889,7 @@ section.sub-cont:first-child{
 .c-cont .img-list>li>.img-txt,
 .c-cont .img-wrap2>li .box,
 .c-cont .row-tb th{
-    background-color:#e4756e !important;
+    background-color:#7459b9 !important;
 }
 
 .c-cont .row-tb th{
@@ -1958,7 +1984,26 @@ section.sub-cont:first-child{
 /* .a5-title.cont-tit .name,.g4-title.cont-tit h3>span,.g4-title.cont-tit .name{
     color: #f69146;
 }*/
-/***************common_202211***************/
+
+/***************common_20230724***************/
+
+.banner_box{
+    text-align: center;
+}
+
+.big-context{
+    margin-top:80px;
+}
+
+.small-context{
+    margin-top:40px;
+}
+
+.context-box p,
+.small-context p,
+.point-box_container {
+    margin-top:20px;
+}
 
 /*a1*/
 
@@ -2041,12 +2086,12 @@ section.sub-cont:first-child{
     text-align:center;
     border-top-left-radius:10px;
     border-top-right-radius:10px;
-    background:#3870cc;
+    background:#7459b9;
 }
 
 .a2-cont .box-wrap dd{
     padding:15px 25px;
-    border:1px solid #3870cc;
+    border:1px solid #7459b9;
 }
 
 
@@ -2151,12 +2196,55 @@ section.sub-cont:first-child{
 #a3{
     color: #333;
 }
+
 #a3 .cont-list>*{
     margin-bottom: 70px;
 }
+
 #a3 [class*='tit-type']{
     margin-bottom: 15px;
 }
+
+#a3 .tit-type5{
+    margin-bottom:0px;
+}
+
+#a3 .f-bold .tit-type5{
+    font-weight: 300;
+}
+
+#a3 .tit-type5::before{
+    left: -4px;
+    background :#7459b9;
+}
+
+#a3 .f-bold{
+    color: #7459b9;
+    font-weight:700;
+}
+
+#a3 .point-box,
+#a4 .point-box{
+    padding: 20px 30px;
+    background: #f7f6fc;
+    margin-bottom:20px;
+}
+
+#a3 .point-box{
+    margin-top:20px;
+}
+
+#a3 .big-c4 .small-c1 .img_box{
+    margin:40px 0;
+    text-align:center;
+}
+
+#a3 .big-c4 .small-c1 .source_text{
+    font-weight:700;
+    text-align:center;
+}
+
+
 #a3 .font-weight-300{
     font-weight: 400;
 }
@@ -2559,8 +2647,28 @@ section.sub-cont:first-child{
 
 /****************** a4 ******************/
 
-#a4 .tit-type1{
-    margin-top: 90px;
+#a4 .point-box_container .tit-type1{
+    background:#7459b9;
+    color:#fff;
+    line-height:30px;
+    padding-left:15px;
+    font-size:16px;
+    margin-top: 0px;
+    margin-bottom:0px;
+}
+
+#a4 .point-box_container .tit-type1::before{
+    height:30px;
+    transform : translateX(-15px);
+    background : #58489c;
+}
+
+#a4 .point-box_container .point-box p:nth-child(2){
+    margin-top:20px;
+}
+
+#a4 .big-c3{
+    margin-top:120px;
 }
 
 #a4 .cont-list{
@@ -2611,132 +2719,116 @@ section.sub-cont:first-child{
 
 
 /****************** a5 ******************/
-#a5 .cont-list>li{
-    margin-top: 85px;
+
+#a5 .poem-list-container{
+    margin : 120px 0;
 }
 
-#a5 [class*='tit-type']{
-    margin-bottom: 10px;
+#a5 .poem-list-container ul{
+    display:flex;
+    justify-content:center;
 }
 
-#a5 [class*='tit-type'] span{
-    padding-left: 33px;
-    padding-right: 33px;
-    color: #3870cc;
-    font-size: 24px;
-    font-weight: 700;
-    background-image: url(../images/a5_ico.png), url(../images/a5_ico.png);
-    background-position: left center, right center;
-    background-repeat: no-repeat;
-}
-
-#a5 p{
-    letter-spacing: -0.05em;
-}
-
-#a5 .cont-list>li:first-child p{
-    letter-spacing: -0.058em;
-}
-
-#a5 .bottomImg{
-    margin-top: 150px;
-}
-
-#a5 .layout>.img.float-right {
-    padding-left: 28px;
-    padding-right: 0px;
-}
-#a5 .layout>.img {
-    padding-right: 28px;
-}
-
-#a5 .ref{
-    margin-top: 95px;
-    padding-bottom: 0;
-}
-
-#a5 .attached{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 15px;
-    background: #f5f5f5;
-}
-
-#a5 .attached p{
-    width: calc(100% - 170px);
-}
-
-#a5 .attached a{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 165px;
-    height: 40px;
-    color: #fff;
-    font-weight: 400;
-    background: #3870cc;
-}
-
-#a5 .attached a i{
-    margin-left: 9px;
-}
-
-#a5 .list-box2{
-    margin-top: 80px;
-}
-
-#a5 .list-box2 li{
-    background: #f5f5f5;
-}
-
-#a5 .list-box2 li:not(:last-child){
-    margin-bottom: 40px;
-}
-
-#a5 .list-box2 li .tit{
-    display: flex;
-    align-items: center;
-    position: relative;
-    min-height: 45px;
-    padding: 10px;
-    padding-left: 117px;
-    color: #fff;
-    font-size: 18px;
-    font-weight: 500;
-    word-break: keep-all;
-    background: #3870cc;
-}
-
-#a5 .list-box2 li .tit .num{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    top: 0;
-    left: 0;
-    padding-left: 45px;
-    width: 106px;
-    height: 100%;
-    color: #533a92;
-    font-weight: 700;
+#a5 ul .poem-list{
+    width: 140px;
+    line-height: 140px;
+    border-radius: 100%;
+    height: 140px;
+    background: #dadada;
+    color: white;
     text-align: center;
-    background: url(../images/a5_barbg.png)  center / 100% 100% no-repeat;
+    margin:0 30px;
+    position:relative;
 }
 
-#a5 .list-box2 li p{
-    padding: 23px 30px;
-    color: #555;
-    line-height: 1.7;
+#a5 .poem-list-container .active{
+    width: 140px;
+    line-height: 140px;
+    border-radius: 100%;
+    height: 140px;
+    background: #7459b9;
+    color: white;
+    text-align: center;
+    margin:0 30px;
+    position:relative;
 }
 
-@media (max-width:575px) {
-    #a5 .attached p{
-        width: calc(100% - 105px);
+#a5 ul .poem-list:first-child::after,
+#a5 ul .poem-list:nth-child(2)::after,
+#a5 ul .poem-list:nth-child(3)::after{
+    content:"";
+    position:absolute;
+    width:2px;
+    height:40px;
+    top:50px;
+    right:-30px;
+    transform:rotate(15deg);
+    background-color:#dadada;
+}
+
+
+#a5 .poem-contents-container ul{
+    background:url(../images/a5_poem_bg.jpg) 50% 100% no-repeat;
+    padding:100px 0;
+}
+
+#a5 .poem-contents-container .poem-contents{
+    display:none;
+}
+
+#a5 .poem-contents-container .active{
+    display:block !important;
+}
+
+#a5 .poem-contents-container .poem-contents .artist_name{
+    display:block;
+    margin-top:20px;
+}
+
+#a5 .poem-contents-container .poem-contents .artist_name,
+#a5 .poem-contents-container .poem-contents .artist_title,
+#a5 .poem-contents-container .poem-contents .poem-text{
+    color:#fff;
+    text-align:center;
+}
+
+@media screen and (max-width : 766px){
+    #a5 .poem-list-container ul{
+        display:grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap : 20px;
     }
-    #a5 .attached a{
-        width: 100px;
+
+    #a5 ul .poem-list{
+        width: 140px;
+        line-height: 140px;
+        border-radius: 100%;
+        height: 140px;
+        background: #dadada;
+        color: white;
+        text-align: center;
+        margin:0 auto;
+        position:relative;
     }
+    
+    #a5 .poem-list-container .active{
+        width: 140px;
+        line-height: 140px;
+        border-radius: 100%;
+        height: 140px;
+        background: #7459b9;
+        color: white;
+        text-align: center;
+        margin:0 auto;
+        position:relative;
+    }
+
+    #a5 ul .poem-list:first-child::after,
+    #a5 ul .poem-list:nth-child(2)::after,
+    #a5 ul .poem-list:nth-child(3)::after{
+        display:none;
+    }
+
 }
 
 /****************** b1 ******************/
@@ -3080,7 +3172,43 @@ section.sub-cont:first-child{
     margin-top: 30px !important;
 }
 
+#c3 .mb-10{
+    margin-bottom: 10px !important;
+}
 
+#c3 .c3-box-cont{
+    background-color: #fafafa;
+    padding: 25px;
+}
+
+#c3 .tit-type1{
+    margin-top: 46px;
+}
+
+#c3 .sub-tit1{
+    font-weight : 700;
+    font-size : 22px;
+    color : #e4756e;
+    margin-bottom:24px;
+}
+
+#c3 .mt-80{
+    margin-top:80px;
+}
+
+#c3 .mt-170{
+    margin-top:170px;
+}
+
+#c3 .health-graph_text_first,
+#c3 .health-graph_text_second{
+    font-size:17px;
+}
+
+#c3 .health-graph_text_result_text{
+    font-weight: 700;
+    color : #e4756e;
+}
 
 @media (min-width: 768px){
     #c3 .col-md-25{
