@@ -1845,8 +1845,10 @@ section.sub-cont:first-child{
 /*b common*/
 .b-cont .cont-tit,
 .b-cont h3,
+.b-cont h4,
 .b3-cont .cont-list>li b,
 .b-cont .tit-type2,
+.b-cont .tit-type3,
 .b-cont .top-box{
     color:#3870cc !important;
 }
