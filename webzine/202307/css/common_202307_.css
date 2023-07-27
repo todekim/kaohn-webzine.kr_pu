@@ -349,6 +349,39 @@ footer{
     transform:translateY(-100%);
 }
 
+/**** background  ****/
+.bg-purple{
+    background: #7459b9 !important;
+}
+
+.bg-white-purple{
+    background: #f7f6fc !important;
+}
+
+/**** text color  ****/
+
+/****************** box-wrap ******************/
+.box-wrap dl{
+    margin-bottom:50px;
+}
+
+.box-wrap dt{
+    display: inline-block;
+    padding:5px 30px;
+    color:#fff;
+    font-size:18px;
+    font-weight:700;
+    text-align:center;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    background:#7459b9;
+}
+
+.box-wrap dd{
+    padding:15px 25px;
+    border:1px solid #7459b9;
+}
+
 .footer-wrap{
     background:#404040;
 }
