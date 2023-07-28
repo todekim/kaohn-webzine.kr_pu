@@ -544,7 +544,7 @@ section.sub-cont:first-child{
     left:0;
     width:31px;
     height:20px;
-    background:url(../images/a_ico.png) no-repeat;
+    background:url(/webzine/202307/images/a_ico.png) no-repeat;
     content:'';
 }
 
@@ -1380,7 +1380,7 @@ section.sub-cont:first-child{
     position: absolute;
     right:0;
     top:0;
-    content:url('../images/c4_deco.png');
+    content:url('/webzine/202307/images/c4_deco.png');
 }
 
 .sub-cont.cont-list3>ul>li>.content{
@@ -1671,7 +1671,7 @@ section.sub-cont:first-child{
     right: 0;
     width: 12px;
     height: 20px;
-    background: url(../images/e3_arr.png) no-repeat;
+    background: url(/webzine/202307/images/e3_arr.png) no-repeat;
     transform: translate(50%, -50%);
     content: '';
 }
@@ -1730,7 +1730,7 @@ section.sub-cont:first-child{
 
 /*서브 타이틀 배너*/
 .sub-wrap .sub-top.a1-tit>.tit {
-    background-image:url(../images/a1_top.jpg);
+    background-image:url(/webzine/202307/images/a1_top.jpg);
 }
 
 /* .sub-wrap .sub-top.a1-tit>.tit h2{
@@ -1738,43 +1738,43 @@ section.sub-cont:first-child{
 } */
 
 .sub-wrap .sub-top.a1-tit>.tit {
-    background-image:url(../images/a1_top.jpg);
+    background-image:url(/webzine/202307/images/a1_top.jpg);
 }
 
 .sub-wrap .sub-top.a2-tit>.tit {
-    background-image:url(../images/a2_top.jpg);
+    background-image:url(/webzine/202307/images/a2_top.jpg);
 }
 
 .sub-wrap .sub-top.a3-tit>.tit {
-    background-image:url(../images/a3_top.jpg);
+    background-image:url(/webzine/202307/images/a3_top.jpg);
 }
 
 .sub-wrap .sub-top.a4-tit>.tit {
-    background-image:url(../images/a4_top.jpg);
+    background-image:url(/webzine/202307/images/a4_top.jpg);
 }
 
 .sub-wrap .sub-top.a5-tit>.tit {
-    background-image:url(../images/a5_top.jpg);
+    background-image:url(/webzine/202307/images/a5_top.jpg);
 }
 
 .sub-wrap .sub-top.a6-tit>.tit {
-    background-image:url(../images/a6_top.jpg);
+    background-image:url(/webzine/202307/images/a6_top.jpg);
 }
 
 .sub-wrap .sub-top.b1-tit>.tit {
-    background-image:url(../images/b1_top.jpg);
+    background-image:url(/webzine/202307/images/b1_top.jpg);
 }
 
 .sub-wrap .sub-top.b2-tit>.tit {
-    background-image:url(../images/b2_top.jpg);
+    background-image:url(/webzine/202307/images/b2_top.jpg);
 }
 
 .sub-wrap .sub-top.b3-tit>.tit {
-    background-image:url(../images/b3_top.jpg);
+    background-image:url(/webzine/202307/images/b3_top.jpg);
 }
 
 .sub-wrap .sub-top.c1-tit>.tit {
-    background-image:url(../images/c1_top.jpg);
+    background-image:url(/webzine/202307/images/c1_top.jpg);
     background-position: center right;
     background-color: #666e71;
 }
@@ -1786,68 +1786,68 @@ section.sub-cont:first-child{
 }
 
 .sub-wrap .sub-top.c2-tit>.tit {
-    background-image:url(../images/c2_top.jpg);
+    background-image:url(/webzine/202307/images/c2_top.jpg);
 }
 
 .sub-wrap .sub-top.c3-tit>.tit {
-    background-image:url(../images/c3_top.jpg);
+    background-image:url(/webzine/202307/images/c3_top.jpg);
 }
 
 .sub-wrap .sub-top.c4-tit>.tit {
-    background-image:url(../images/c4_top.jpg);
+    background-image:url(/webzine/202307/images/c4_top.jpg);
 }
 
 .sub-wrap .sub-top.d1-tit>.tit {
-    background-image:url(../images/d1_top.jpg);
+    background-image:url(/webzine/202307/images/d1_top.jpg);
 }
 
 
 /* .sub-wrap .sub-top.c5-tit>.tit {
-    background-image:url(../images/c5_top.jpg);
+    background-image:url(/webzine/202307/images/c5_top.jpg);
 } */
 
 .sub-wrap .sub-top.e1-tit>.tit {
-    background-image:url(../images/e1_top.jpg);
+    background-image:url(/webzine/202307/images/e1_top.jpg);
 }
 
 .sub-wrap .sub-top.e2-tit>.tit {
-    background-image:url(../images/e2_top.jpg);
+    background-image:url(/webzine/202307/images/e2_top.jpg);
 }
 
 .sub-wrap .sub-top.e3-tit>.tit {
-    background-image:url(../images/e3_top.jpg);
+    background-image:url(/webzine/202307/images/e3_top.jpg);
 }
 
 /* .sub-wrap .sub-top.e4-tit>.tit {
-    background-image:url(../images/e4_top.jpg);
+    background-image:url(/webzine/202307/images/e4_top.jpg);
 }
 
 .sub-wrap .sub-top.e5-tit>.tit {
-    background-image:url(../images/e5_top.jpg);
+    background-image:url(/webzine/202307/images/e5_top.jpg);
 } */
 
 .sub-wrap .sub-top.g1-tit>.tit {
-    background-image:url(../images/e5_top.jpg);
+    background-image:url(/webzine/202307/images/e5_top.jpg);
 }
 
 .sub-wrap .sub-top.g2-tit>.tit {
-    background-image:url(../images/g2_top.jpg);
+    background-image:url(/webzine/202307/images/g2_top.jpg);
 }
 
 .sub-wrap .sub-top.g3-tit>.tit {
-    background-image:url(../images/g3_top.jpg);
+    background-image:url(/webzine/202307/images/g3_top.jpg);
 }
 
 .sub-wrap .sub-top.g4-tit>.tit {
-    background-image:url(../images/g4_top.jpg);
+    background-image:url(/webzine/202307/images/g4_top.jpg);
 }
 
 .sub-wrap .sub-top.g5-tit>.tit {
-    background-image:url(../images/g5_top.jpg);
+    background-image:url(/webzine/202307/images/g5_top.jpg);
 }
 
 .sub-wrap .sub-top.g6-tit>.tit {
-    background-image:url(../images/g6_top.jpg);
+    background-image:url(/webzine/202307/images/g6_top.jpg);
 }
 
 
@@ -1880,7 +1880,7 @@ section.sub-cont:first-child{
 }
 
 .a-cont .tit-type2::before{
-    background:url(../images/a_ico.png) no-repeat;
+    background:url(/webzine/202307/images/a_ico.png) no-repeat;
 }
 
 .a-cont .list-line2>li::before{
@@ -1907,11 +1907,11 @@ section.sub-cont:first-child{
 }
 
 .b-cont .list-line2>li::before{
-    background-image:url(../images/ico-line1.gif);
+    background-image:url(/webzine/202307/images/ico-line1.gif);
 }
 
 .b-cont .tit-type2::before{
-    background:url(../images/b_ico.png) no-repeat;
+    background:url(/webzine/202307/images/b_ico.png) no-repeat;
 }
 
 .b-cont .list-box,
@@ -1973,7 +1973,7 @@ section.sub-cont:first-child{
 .g2-cont .tit-type2::before,
 .g3-cont .tit-type2::before,
 .g6-cont .tit-type2::before  {
-    background: url(../images/g_ico.png) no-repeat !important;
+    background: url(/webzine/202307/images/g_ico.png) no-repeat !important;
 }
 
 .g-cont .qna-cont .q .txt,
@@ -2005,11 +2005,11 @@ section.sub-cont:first-child{
 }
 
 .g3-cont .list-line2>li::before{
-    background-image:url(../images/ico-line2.gif);
+    background-image:url(/webzine/202307/images/ico-line2.gif);
 }
 
 .g-cont .qna-cont .q .ico{
-    background:url(../images/e5_q_bg.png) top center no-repeat;
+    background:url(/webzine/202307/images/e5_q_bg.png) top center no-repeat;
 }
 
 .g-cont .list-box,
@@ -2018,7 +2018,7 @@ section.sub-cont:first-child{
 }
 
 .g-cont .tit-type2::before{
-    background:url(../images/g_ico.png) no-repeat;
+    background:url(/webzine/202307/images/g_ico.png) no-repeat;
 }
 
 .g-cont .row-tb th{
@@ -2145,7 +2145,7 @@ section.sub-cont:first-child{
 #a1 .card-wrap{
     padding: 29.44% 30px 30%;
     background-color: #f6f6f6;
-    background-image: url(../images/a1_bg_top.png), url(../images/a1_bg_bottom.png);
+    background-image: url(/webzine/202307/images/a1_bg_top.png), url(/webzine/202307/images/a1_bg_bottom.png);
     background-position: center top, center bottom;
     background-size: 100% auto, 100%, auto;
     background-repeat: no-repeat;
@@ -2255,7 +2255,7 @@ section.sub-cont:first-child{
     margin-top: 15px;
     margin-bottom: 15px;
     font-size: 17px;
-    background: url(../images/a2_bg.png) #f6f5fa repeat-x;
+    background: url(/webzine/202307/images/a2_bg.png) #f6f5fa repeat-x;
 }
 
 #a2 [class*='box-note']>ul{
@@ -2440,7 +2440,7 @@ section.sub-cont:first-child{
     right: 0;
     width: 95px;
     height: 57px;
-    background: url(../images/a3_02.jpg) no-repeat;
+    background: url(/webzine/202307/images/a3_02.jpg) no-repeat;
     content: '';
 }
 
@@ -2662,7 +2662,7 @@ section.sub-cont:first-child{
     right: 0;
     width: 28px;
     height: 28px;
-    background: url(../images/a3_plus.png) no-repeat;
+    background: url(/webzine/202307/images/a3_plus.png) no-repeat;
     transform: translate(50%, -50%);
     content: '';
 }
@@ -2904,7 +2904,7 @@ section.sub-cont:first-child{
 
 
 #a5 .poem-contents-container ul{
-    background:url(../images/a5_poem_bg.jpg) 50% 100% no-repeat;
+    background:url(/webzine/202307/images/a5_poem_bg.jpg) 50% 100% no-repeat;
     padding:100px 0;
 }
 
@@ -3218,7 +3218,7 @@ section.sub-cont:first-child{
 }
 
 .c1-cont .qna-cont .q>.ico{
-    background:url(../images/c1_q_bg.png) top center no-repeat;
+    background:url(/webzine/202307/images/c1_q_bg.png) top center no-repeat;
 }
 
 .c1-cont .qna-cont .q .txt,
@@ -3853,7 +3853,7 @@ vertical-align: middle;
     border-radius:0;
 }
 .sub-cont.c4-cont .pattern{
-    background: url(../images/c4_pattern.png) repeat;
+    background: url(/webzine/202307/images/c4_pattern.png) repeat;
 }
 .sub-cont.c4-cont .pattern li{
     padding-left: 10px;
@@ -4213,7 +4213,7 @@ vertical-align: middle;
     margin: 0 auto;
     max-width: 900px;
     padding: 100px 20px 60px;
-    background: url(../images/e2_note_bg.png) top center no-repeat;
+    background: url(/webzine/202307/images/e2_note_bg.png) top center no-repeat;
 }
 
 #e2 .box-note .tit{
@@ -4253,7 +4253,7 @@ vertical-align: middle;
     left: 0;
     width: 10px;
     height: 9px;
-    background: url(../images/e2_note_ico.png) no-repeat;
+    background: url(/webzine/202307/images/e2_note_ico.png) no-repeat;
     content: '';
 }
 
@@ -4371,7 +4371,7 @@ vertical-align: middle;
 #e3 .cont-list2>li:not(:last-child){
     padding-bottom: 20px;
     margin-bottom: 20px;
-    background: url(../images/e3_line.png) left bottom repeat-x;
+    background: url(/webzine/202307/images/e3_line.png) left bottom repeat-x;
 }
 
 #e3 .cont-list2>li .list-line{
@@ -4948,7 +4948,7 @@ vertical-align: middle;
     font-family: 'GmarketSansBold';
     font-size: 32px;
     text-align: center;
-    background: url(../images/g4_cont1_01.png) center top no-repeat;
+    background: url(/webzine/202307/images/g4_cont1_01.png) center top no-repeat;
 }
 
 #g4 .bottomImg{
@@ -5057,7 +5057,7 @@ vertical-align: middle;
     width:100%;
     position:absolute;
     left:0;
-    background:url('../images/g5_box_bg.png') no-repeat top center;
+    background:url('/webzine/202307/images/g5_box_bg.png') no-repeat top center;
     transform:translateY(-54px);
     text-align:center;
     color:white;
@@ -5985,7 +5985,7 @@ vertical-align: middle;
         width:100%;
         height:101px;
         margin-bottom:25px;
-        background: url(../images/e4_tit_bg_row.jpg) center / cover  no-repeat;
+        background: url(/webzine/202307/images/e4_tit_bg_row.jpg) center / cover  no-repeat;
     }
 
     .e4-cont .cont-list2 .tit>div{

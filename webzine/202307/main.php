@@ -4,11 +4,13 @@
     <li class="col-12 col-sm-6 col-lg-4">
         <div class="main-thumbnail thumbnail-4">
             <ul>
-                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=a_1&wr_id=44&pu_id=202307"><b>[바로아는 산업보건법]</b><br>건설업의 산업재해 예방(II)</a></li>
-                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=a_1&wr_id=43&pu_id=202307"><b>[월례특강]</b><br>중대재해처벌법과 위험성평가</a></li>
-                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=a_1&wr_id=42&pu_id=202307"><b>[연속기획]</b><br>직업보건영역에서 빅데이터의 분석</a></li>
-                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=a_1&wr_id=41&pu_id=202307"><b>[마음쉼터]</b><br>스트레스 관리법</a></li>
-                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=a_1&wr_id=46&pu_id=202307"><b>[특별기획]</b><br>제5회 직업건강대상 수상 인터뷰</a></li>
+                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=a_1&wr_id=52&pu_id=202307"><b>[제언]</b>산업안전보건기준에 관한 규칙 제669조</a></li>
+                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=a_1&wr_id=48&pu_id=202307"><b>[바로아는 산업안전보건법]</b><br>건설업의 산업재해 예방(III) 및 ...</a></li>
+                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=a_1&wr_id=49&pu_id=202307"><b>[월례특강]</b><br>안전보건 관리체계 구축의
+7대 요소</a></li>
+                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=a_1&wr_id=50&pu_id=202307"><b>[연속기획]</b><br>직업보건 위험도 평가에서 빅데이터의 활용</a></li>
+                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=a_1&wr_id=51&pu_id=202307"><b>[마음쉼터]</b>나의 갱년기와 마주하다</a></li>
+                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=a_1&wr_id=18&pu_id=202307"><b>[특별기획]</b><br>여름철 밀폐공간 불청객 ...</a></li>
             </ul>
             <img src="/webzine/202307/images/main-thumbnail_03.jpg" alt="직업건강 이야기" class="img-fluid">
         </div>
@@ -17,7 +19,7 @@
         <div class="main-thumbnail thumbnail-5">
             <ul>
                 <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=b_1&wr_id=42&pu_id=202307"><b>[알면 쓸모있는 의료상식]</b><br>열사병, 가장 위험한 온열질환.</a></li>
-                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=b_1&wr_id=39&pu_id=202307"><b>[직업건강 생생정보]</b><br>항공기 승무원 안전 및 건강(Aircrew Safety & Health) – 직무스트레스 (Job Stress) -</a></li>
+                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=b_1&wr_id=43&pu_id=202307"><b>[직업건강 생생정보]</b><br>항공기 승무원 안전 및 건강(Aircrew Safety & Health)</a></li>
                 <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=b_1&wr_id=41&pu_id=202307"><b>[연구동향]</b><br>의료기관 종사자의 휴게시설 만족도가 피로에 미치는 영향</a></li>
             </ul>
             <img src="/webzine/202307/images/main-thumbnail_04.jpg" alt="보건관리자 역량강화" class="img-fluid">
@@ -26,9 +28,10 @@
     <li class="col-12 col-sm-6 col-lg-4">
         <div class="main-thumbnail thumbnail-6">
             <ul>
-                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=c_1&wr_id=37&pu_id=202307"><b>[보건관리자의 하루]</b><br>보건관리자의 하루</a></li>
-                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=c_1&wr_id=38&pu_id=202307"><b>[보건관리자 우수사례]</b><br>직업건강 우수사례 발표 - 알잘딱깔센! 보건관리</a></li>
-                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=c_1&wr_id=32&pu_id=202307"><b>[산업보건 진로탐방]</b><br>직업건강협회 대전 근로자 건강센터를 소개합니다</a></li>
+                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=c_1&wr_id=36&pu_id=202307"><b>[이달의 보건관리자]</b><br></a></li>
+                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=c_1&wr_id=37&pu_id=202307"><b>[보건관리자의 하루]</b><br></a></li>
+                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=c_1&wr_id=38&pu_id=202307"><b>[보건관리자 우수사례]</b><br>언택트 시대, 휴먼터치 더하기</a></li>
+                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=c_1&wr_id=39&pu_id=202307"><b>[산업보건 진로탐방]</b><br>직업건강협회 광주 근로자 건강센터를 소개합니다</a></li>
             </ul>
             <img src="/webzine/202307/images/main-thumbnail_05_tit.png" alt="보건관리자 이야기" class="img-fluid">
         </div>
@@ -37,9 +40,9 @@
         <div class="main-thumbnail thumbnail-7">
             <a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=e_1&wr_id=26&pu_id=202307"><img src="/webzine/202307/images/main-thumbnail_06.jpg" alt="협회 이야기" class="img-fluid"></a>
             <ul>
-                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=e_1&wr_id=29&pu_id=202307"><b>[협회소식]</b></a></li>
-                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=e_1&wr_id=28&pu_id=202307"><b>[교육소식]</b><br>교육안내</a></li>
-                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=e_1&wr_id=27&pu_id=202307"><b>[사업보고]</b><br>건강디딤돌 현장모니터링</a></li>
+                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=e_1&wr_id=30&pu_id=202307"><b>[협회소식]</b></a></li>
+                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=e_1&wr_id=32&pu_id=202307"><b>[사업소식]</b><br>외국인 종사 소규모 사업장
+결핵 예방 교육</a></li>
             </ul>
         </div>
     </li>
@@ -47,7 +50,8 @@
         <div class="main-thumbnail thumbnail-8">
             <ul>
                 <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=g_1&wr_id=29&pu_id=202307"><b>[오늘의 Pick]</b><br>사업장 세척제 급성 중독사고</a></li>
-                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=g_1&wr_id=27&pu_id=202307"><b>[근로자 보건교육]</b><br>심폐소생술(CPR)</a></li>
+                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=g_1&wr_id=30&pu_id=202307"><b>[근로자 보건교육]</b><br>미래사회와 교육- 보호구 결함 찾기,
+안전보건 실습 교육을 중심으로</a></li>
             </ul>
             <img src="/webzine/202307/images/main-thumbnail_07.jpg" alt="직업건강 이모저모" class="img-fluid">
         </div>

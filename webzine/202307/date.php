@@ -1,1 +1,1 @@
-<div class="webzine-vol">Vol.30 No.3 2023 May</div>
+<div class="webzine-vol">Vol.31 No.4 2023 July</div>
