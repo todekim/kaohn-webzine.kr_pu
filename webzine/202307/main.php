@@ -19,7 +19,7 @@
         <div class="main-thumbnail thumbnail-5">
             <ul>
                 <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=b_1&wr_id=42&pu_id=202307"><b>[알면 쓸모있는 의료상식]</b><br>열사병, 가장 위험한 온열질환.</a></li>
-                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=b_1&wr_id=43&pu_id=202307"><b>[직업건강 생생정보]</b><br>항공기 승무원 안전 및 건강(Aircrew Safety & Health)</a></li>
+                <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=b_1&wr_id=43&pu_id=202307"><b>[직업건강 생생정보]</b><br>전기 관련 안전 작업 지침</a></li>
                 <li><a href="<?php echo G5_BBS_URL;?>/board.php?bo_table=b_1&wr_id=41&pu_id=202307"><b>[연구동향]</b><br>의료기관 종사자의 휴게시설 만족도가 피로에 미치는 영향</a></li>
             </ul>
             <img src="/webzine/202307/images/main-thumbnail_04.jpg" alt="보건관리자 역량강화" class="img-fluid">

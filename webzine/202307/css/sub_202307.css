@@ -99,7 +99,7 @@
 
 .sub-wrap .list-i>li{
     position: relative;
-    padding-left:20px;
+    padding-left:25px;
     text-indent: 0 !important;
 }
 
@@ -115,7 +115,7 @@
 
 .sub-wrap .list-i.list-i_v2>li{
     position: relative;
-    padding-left:28px;
+    padding-left:25px;
     
 }
 
@@ -550,7 +550,7 @@ section.sub-cont:first-child{
 
 .sub-cont .tit-type3{
     position: relative;
-    padding-top:2px;
+    padding-top:4px;
     padding-bottom:4px;
     padding-left:42px;
     margin-bottom:12px;
@@ -3042,9 +3042,7 @@ section.sub-cont:first-child{
 
 /******************b2******************/
 
-#b2 .tit-type3 span{
-    top:7px;
-}
+
 
 #b2 .point-box{
     padding: 20px 30px;

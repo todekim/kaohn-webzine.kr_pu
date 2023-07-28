@@ -1,13 +1,13 @@
 <div class="popup-wrap inner">
     <div id="popup_1" class="popup">
-        <img src="/webzine/202305/images/popup_01.jpg" alt="퀴즈 당첨자 발표" class="img-fluid">
+        <img src="/webzine/202307/images/popup_01.jpg" alt="퀴즈 당첨자 발표" class="img-fluid">
         <div class="p-footer d-flex justify-content-between">
             <button id="pop_none_1" class="today_none" onClick="todaycloseWin(this)">하루동안 보지 않기</button>
             <button class="pop-close">닫기</button>
         </div>
     </div>
     <div id="popup_2" class="popup">
-        <a href="https://docs.google.com/forms/d/e/1FAIpQLSekg5xyrP5k5KJ0fsVBNe_Lq3wXCmmtfq4TIqSD4lchr5m1yQ/viewform" target="_blank"><img src="/webzine/202207/images/popup_02.jpg" alt="퀴즈퀴즈" class="img-fluid"></a>
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSenwonIjH4j5-BvqW-wj5mEaW4loEvqFOpgSmbip2QXhPZr1g/viewform" target="_blank"><img src="/webzine/202207/images/popup_02.jpg" alt="퀴즈퀴즈" class="img-fluid"></a>
         <div class="p-footer d-flex justify-content-between">
             <button id="pop_none_2" class="today_none" onClick="todaycloseWin(this)">하루동안 보지 않기</button>
             <button class="pop-close" >닫기</button>
